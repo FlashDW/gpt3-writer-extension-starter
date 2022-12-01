@@ -1,6 +1,6 @@
 {
-  "name": "GPT-3 Writer",
-  "description": "Write a blog post in the style of your favorite thinker anywhere!",
+  "name": "Rhyme Writer With GPT-3",
+  "description": "Write a ryme in a matter of secconds!",
   "version": "1.0",
   "manifest_version": 3,
   "icons": {
@@ -11,6 +11,6 @@
   },
   "action": {
     "default_popup": "index.html",
-    "default_title": "Generate blog post"
+    "default_title": "Whyme Writer With GPT-3"
   }
 }
